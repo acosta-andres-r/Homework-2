@@ -16,4 +16,4 @@ Creation of responsive mobile web pages that are composed of About Me, Portofoli
 
 - The design of Navegation Bar and Footer is consistent throughout all the pages.
 
-- In order to validate the HTML files, the utilized service was [W3C Markup Validation Services](https://validator.w3.org/#validate_by_upload). All documents has no errors or warnings.
+- In order to validate the HTML files, the utilized service was [W3C Markup Validation Services](https://validator.w3.org/#validate_by_upload). All documents have no errors or warnings.
